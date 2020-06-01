@@ -7,7 +7,6 @@ using namespace std;
 
 
 void solve(){
-    OJ;
     int n;
     cin >> n;
     vector<int> v(n);
